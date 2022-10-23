@@ -1,0 +1,90 @@
+c:\users\göktuğ\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\göktuğ\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\göktuğ\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\göktuğ\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\göktuğ\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Mandelbrot.resources
+c:\users\göktuğ\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\göktuğ\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\göktuğ\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\göktuğ\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\göktuğ\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ\Desktop\Yeni klasör\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Göktuğ\Desktop\Yeni klasör\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ\Desktop\Yeni klasör\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ\Desktop\Yeni klasör\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ\Desktop\Yeni klasör\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ\Desktop\Yeni klasör\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ\Desktop\Yeni klasör\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ\Desktop\Yeni klasör\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ\Desktop\Yeni klasör\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ\Desktop\Yeni klasör\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Mandelbrot.resources
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Hakkinda.resources
+D:\Dosya mosya cart curt\Masaüstü\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Desktop\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication23\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Debug\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Debug\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Debug\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache

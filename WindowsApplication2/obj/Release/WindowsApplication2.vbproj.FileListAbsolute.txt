@@ -1,0 +1,130 @@
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Göktuğ\Desktop\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.Yardım.resources
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.Hakkinda.resources
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Ilknur\Desktop\BACKUP\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Yardım.resources
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Hakkinda.resources
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Ilknur\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Yardım.resources
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Hakkinda.resources
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\burak\Desktop\BACKUP234\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\obj\Release\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\obj\Release\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Desktop\video son\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\obj\Release\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\obj\Release\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Desktop\deneme\video son\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Release\WindowsApplication2.Yardım.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Release\WindowsApplication2.Mandelbrot.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Release\WindowsApplication2.Hakkinda.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Göktuğ Öner\Desktop\Mandelbrot Dökümanları\video son\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
